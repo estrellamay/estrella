@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maryux22
+- 👋 Hi, I’m @estrella
 - 👀 I’m interested in product design
 - 🌱 I’m currently learning product design
 - 💞️ I’m looking to collaborate on leveraging product design skills
