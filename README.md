@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estrella
+- 👋 Hi, I’m @lam-byte
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on leveraging software engineering skills
