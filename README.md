@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supergirl
+- 👋 Hi, I’m @estrella
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on leveraging software engineering skills
